@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.01 60.01" role="img" aria-label="Curdomus">
+<title>Curdomus</title>
+<g stroke-linecap="butt" stroke-linejoin="miter">
+<path d="M53.78 10.11A27.95 27.95 0 1 0 53.78 49.9" fill="none" stroke="#0F2946" stroke-width="4.1"/>
+<polyline points="32.34,38.62 32.34,10.89 45.03,17.79 45.03,43.52" fill="none" stroke="#0F2946" stroke-width="1.8"/>
+<polyline points="21.59,54.97 21.59,45.2 34.74,37.15 48.86,45.89 48.86,53.77" fill="none" stroke="#0F2946" stroke-width="1.8"/>
+<polyline points="18.38,48.5 18.38,27.92 29.04,22.69 29.04,38" fill="none" stroke="#8B8071" stroke-width="1.8"/>
+<polyline points="47.47,29.97 54.96,35.39 54.96,48.7" fill="none" stroke="#8B8071" stroke-width="1.8"/>
+<rect x="32.72" y="45.5" width="2.0" height="2.0" fill="#8B8071"/>
+<rect x="35.82" y="45.5" width="2.0" height="2.0" fill="#8B8071"/>
+<rect x="32.72" y="48.5" width="2.0" height="2.0" fill="#8B8071"/>
+<rect x="35.82" y="48.5" width="2.0" height="2.0" fill="#8B8071"/>
+</g>
+</svg>
